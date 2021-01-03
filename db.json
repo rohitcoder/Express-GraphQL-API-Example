@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "23",
+      "firstName": "Rohit",
+      "age": 20,
+      "companyId": "1"
+    },
+    {
+      "id": "24",
+      "firstName": "Mohit",
+      "age": 22,
+      "companyId": "2"
+    },
+    {
+      "id": "25",
+      "firstName": "Dimple",
+      "age": 23,
+      "companyId": "2"
+    },
+    {
+      "id": "26",
+      "firstName": "Suman",
+      "age": 45,
+      "companyId": "1"
+    },
+    {
+      "firstName": "Sumit Raj",
+      "id": "L2iZVOY",
+      "age": 21,
+      "companyId": "2"
+    }
+  ],
+  "companies": [
+    {
+      "id": 1,
+      "name": "Apple",
+      "Description": "Apple computers description"
+    },
+    {
+      "id": 2,
+      "name": "Google",
+      "Description": "Google description"
+    }
+  ]
+}
